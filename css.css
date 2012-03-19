@@ -1,0 +1,23 @@
+* { padding: 0px; margin:0px; font-size: 14px;}
+.demouser{color:blue;}
+.demobot{color:green;}
+body { text-align: center;}
+form { text-align: left; }
+h1{ color:red; margin: 30px auto 0px auto; font-size:20px;}
+.container { width: 700px; height: 500px; border: 1px solid #022c60; background-color: #87CEEB; margin: 30px auto 0px auto; padding: 8px;}
+.main { float: left; width: 470px; height: 100%; border: 1px solid #022c60; background-color: #f6f7eb; }
+.main .title { background-color: #d1d9c1; color: #022c60; padding: 10px; text-align: left; border-bottom: 1px solid #022c60; }
+.right { float: left; padding-left: 8px; }
+.right .notice { width: 200px; height: 230px; margin-top: 8px; border: 1px solid #022c60; background-color: #f6f7eb; padding: 5px 9px; color: #022c60; text-align:left; font-size: 12px; }
+.right .avatar { width: 218px; height: 250px; border: 1px solid #022c60; background-color: #f6f7eb; overflow: hidden; }
+.right .notice * { font-size: 12px; }
+.right .notice p { margin-top: 4px; margin-left: 12px; margin-bottom: 8px; line-height: 22px; }
+.about { margin-top: 15px; float:right; color: #999; font-size: 12px; }
+.about a { color: #999; font-size: 13px; text-decoration: none; }
+.about a:hover { color: #333; text-decoration: underline; }
+#result { height: 400px; margin-bottom: 10px; text-align: left; padding: 10px; line-height: 28px; overflow-y:scroll;}
+#result .you { color: #33c; }
+#result .lost { color: #669; }
+#result .loading { color: #888; }
+#text { width: 380px; margin-left: 5px; height: 22px; line-height: 22px;}
+#btn { margin-left: 10px; width: 50px; height: 24px; line-height: 24px; }
